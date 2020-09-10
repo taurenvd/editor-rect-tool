@@ -1,5 +1,5 @@
 {
-  "name": "com.unity.recttool",
+  "name": "com.unity.rect-tool",
   "version": "1.0.0",
   "displayName": "Editor Rect Tool",
   "description": "This package provides function to easily convert Rect <-> Anchored positions in RectTranform component.",
