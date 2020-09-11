@@ -1,5 +1,5 @@
 ﻿{
-	"name": "Unity.RectTool.Editor"
+	"name": "Unity.RectTool.Editor",
     "references": [],
     "includePlatforms": [
         "Editor"
